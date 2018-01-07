@@ -1,7 +1,7 @@
-﻿using Android;
-using Android.App;
+﻿using Android.App;
 using Android.Content.PM;
 using MvvmCross.Droid.Views;
+using TipCalc.UI.Droid;
 
 namespace TipCalc.Droid
 {

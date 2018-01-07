@@ -2,6 +2,7 @@ using Android.App;
 using Android.OS;
 using MvvmCross.Droid.Views;
 using TipCalc.Core.ViewModels;
+using TipCalc.UI.Droid;
 
 namespace TipCalc.Droid.Views
 {
